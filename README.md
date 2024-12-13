@@ -1,2 +1,2 @@
 # Jupyter-Notebook
-Final assigment of the module 6 of the course "Tools for data science" from IBM on Coursera
+Final assigment of the module 6 of IBM´s "Tools for data science" course on Coursera
